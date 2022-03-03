@@ -1,0 +1,18 @@
+[submodule "theboostcpplibraries"]
+	path = theboostcpplibraries
+	url = https://github.com/BorisSchaeling/theboostcpplibraries
+[submodule "OpenGL-Refpages"]
+	path = OpenGL-Refpages
+	url = https://github.com/KhronosGroup/OpenGL-Refpages
+[submodule "boost_guide"]
+	path = boost_guide
+	url = https://github.com/chronolaw/boost_guide
+[submodule "OfferOrientedAlgorithms"]
+	path = OfferOrientedAlgorithms
+	url = https://github.com/zhedahht/OfferOrientedAlgorithms.git
+[submodule "OpenGL_Redbook_examples"]
+	path = OpenGL_Redbook_examples
+	url = https://github.com/ai-chen2050/OpenGL_Redbook_examples.git
+[submodule "labuladong-algorithm-notebook"]
+	path = labuladong-algorithm-notebook
+	url = https://github.com/labuladong/fucking-algorithm.git
