@@ -16,3 +16,6 @@
 [submodule "labuladong-algorithm-notebook"]
 	path = labuladong-algorithm-notebook
 	url = https://github.com/labuladong/fucking-algorithm.git
+[submodule "Design-Patterns-GoF"]
+	path = Design-Patterns-GoF
+	url = https://github.com/BartVandewoestyne/Design-Patterns-GoF
